@@ -10,4 +10,4 @@ The link: https://github.com/AustinReese
 <br>
 
 ## Jupyter Notebook
-Our data analysis could be upload here: https://yadi.sk/d/8z31_h1KnvI0qw
+In this repo you could see our data analysis.

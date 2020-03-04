@@ -4,6 +4,9 @@ This is our econometric project. Here we would like to share our data analysis u
 
 ## Data
 Data is available here: https://yadi.sk/d/_wMSEVnNYu-Stw
+
+Special thanks to Austin Reese for providing us with used cars data.
+The link: https://github.com/AustinReese
 <br>
 
 ## Jupyter Notebook
